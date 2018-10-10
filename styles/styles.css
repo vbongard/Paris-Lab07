@@ -1,0 +1,48 @@
+/*
+I'm creating 4 different categories for my CSS -
+
+1. Layout
+2. Style
+3. State - Only used for the .is-current class
+4. Navigation
+*/
+
+/* LAYOUT */
+
+
+
+/* STYLE */
+
+/* STATE */
+
+.menu li a:hover {
+    background-color: #B4DCF5;
+}
+
+.menu .is-current { 
+    background-color: #B4DCF5;
+    color: #204861;
+    }
+
+/* NAVIGATION */
+
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #300;
+    border-radius: 10px;
+}
+
+.menu li {
+    float: left;
+}
+
+.menu li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
