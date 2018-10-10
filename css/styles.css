@@ -37,8 +37,7 @@ I'm creating 4 different categories for my CSS -
 }
 
 .menu li {
-    float: right;
-    padding-left: 15px;
+    float: center;
 }
 
 .menu li a{
@@ -47,4 +46,6 @@ I'm creating 4 different categories for my CSS -
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-family: Arial;
+    font-weight: bold;
 }
