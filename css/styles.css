@@ -1,0 +1,131 @@
+/*
+I'm creating 4 different categories for my CSS -
+
+1. Base
+2. Layout
+3. State
+4. Navigation (Excluding States)
+*/
+
+/* BASE */
+
+p {
+    margin-top: 50px;
+    text-indent: 60px;
+    margin-bottom: 100px;
+}
+
+h1 {
+    font-size: 50px;
+    color: #333;
+    border-bottom-style: solid;
+    border-bottom-color: #333;
+    padding: 10px;
+    padding-left: 15px;
+}
+
+body {
+    margin: 0 auto;
+    width: 92%;
+    background-color: #E6E6FA;
+    font-size: 25px;
+}
+
+h3 {
+    
+}
+
+/* LAYOUT */
+
+.belowPic {
+    font-size: 20px;
+    color: #333333;
+}
+
+.heroImage {
+    display: block;
+    width: 100%;
+    border: double;
+    border-width: 2px;
+    border-color: black;
+    padding: 5px;
+}
+
+.listBelow {
+    margin-left: 0 auto;
+}
+
+.student {
+    padding: 3px;
+    margin: 0 auto;
+}
+
+.studentName {
+    padding-top: 10px;
+    float: left;
+    display: inline-table;
+    margin: 0 auto;
+    font-weight: bold;
+    color: black;
+}
+
+.studentImage {
+    float: right;
+    display: inline-table;
+    margin: 0 auto;
+    width: 350px;
+    height: 225px;
+    border: solid; 
+    border-width: 2px;
+    border-color: black;
+}
+
+.studentMajor {
+    padding: 30px;
+    float: center;
+    width: 60%;
+    color: gray;
+}
+
+.titles {
+    margin: 0 auto;
+    text-decoration: underline;
+    color: black;
+}
+
+/* STATE */
+
+.menu li a:hover {
+    background-color: #B4DCF5;
+}
+
+.is-current { 
+    background-color: #B4DCF5;
+    color: #204861;
+    }
+
+/* NAVIGATION (Excluding States) */
+
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #300;
+    border-radius: 10px;
+    text-align: left;
+}
+
+.menu li {
+    float: left;
+}
+
+.menu li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Arial;
+    font-weight: bold;
+}

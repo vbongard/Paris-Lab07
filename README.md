@@ -1,5 +1,7 @@
 # Paris-Lab07
 
+## Link to website: http://csc174.org/assignment07/Paris-Lab07/
+
 ## Team Paris
 
 ### Information Architect
