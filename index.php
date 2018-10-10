@@ -2,7 +2,7 @@
 
 <body>
 <header>
-	<h1>Student Bios</h1>
+	<h1>Home</h1>
 </header>
 <nav class="menu">
 <!-- Factor out nav using php -->
