@@ -4,7 +4,7 @@ I'm creating 4 different categories for my CSS -
 1. Base
 2. Layout
 3. State
-4. Navigation
+4. Navigation (Excluding States)
 */
 
 /* BASE */
@@ -42,10 +42,9 @@ h3 {
     color: #333333;
 }
 
-.centerImage {
+.heroImage {
     display: block;
-    margin-left: 8%;
-    width: 1000px;
+    width: 100%;
     padding-top: 20px;
 }
 
@@ -97,12 +96,12 @@ h3 {
     background-color: #B4DCF5;
 }
 
-.menu .is-current { 
+.is-current { 
     background-color: #B4DCF5;
     color: #204861;
     }
 
-/* NAVIGATION */
+/* NAVIGATION (Excluding States) */
 
 .menu ul {
     list-style-type: none;
