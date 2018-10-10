@@ -33,10 +33,12 @@ I'm creating 4 different categories for my CSS -
     overflow: hidden;
     background-color: #300;
     border-radius: 10px;
+    text-align: center;
 }
 
 .menu li {
-    float: left;
+    float: right;
+    padding-left: 15px;
 }
 
 .menu li a{
