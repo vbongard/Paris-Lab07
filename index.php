@@ -25,5 +25,7 @@
 		also if you would like to make sure the structural tags are meaningful-->
 </aside>
 <!-- put JS scripts here and factor our with php if need be-->
+<script src="http://code.jquery.com/jquery.js"></script>
+<script src="js/menu-highlighter.js"></script>
 </body>
 </html>
