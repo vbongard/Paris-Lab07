@@ -45,7 +45,10 @@ h3 {
 .heroImage {
     display: block;
     width: 100%;
-    padding-top: 20px;
+    border: double;
+    border-width: 2px;
+    border-color: black;
+    padding: 5px;
 }
 
 .listBelow {
