@@ -21,12 +21,7 @@
 	<li>Lihui Guo - Business Major</li>
 </ul>
 </section>
-<aside>
-	<!-- Jon, this is a good place to put your arrow thingy you mentioned! Let me know if you want me to put any real content here
-		also if you would like to make sure the structural tags are meaningful-->
-</aside>
-<!-- put JS scripts here and factor our with php if need be-->
-<script src="http://code.jquery.com/jquery.js"></script>
+
 <script src="js/menu-highlighter.js"></script>
 </body>
 </html>

@@ -57,5 +57,6 @@
 	</section>
 
 
+<script src="js/menu-highlighter.js"></script>
 </body>
 </html>
