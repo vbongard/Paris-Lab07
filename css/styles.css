@@ -31,16 +31,64 @@ body {
     font-size: 25px;
 }
 
+h3 {
+    
+}
+
 /* LAYOUT */
 
 .belowPic {
-
+    font-size: 20px;
+    color: #333333;
 }
 
 .centerImage {
     display: block;
+    margin-left: 8%;
+    width: 1000px;
+    padding-top: 20px;
+}
+
+.listBelow {
+    margin-left: 0 auto;
+}
+
+.student {
+    padding: 3px;
     margin: 0 auto;
-    width: 100%;
+}
+
+.studentName {
+    padding-top: 10px;
+    float: left;
+    display: inline-table;
+    margin: 0 auto;
+    font-weight: bold;
+    color: black;
+}
+
+.studentImage {
+    float: right;
+    display: inline-table;
+    margin: 0 auto;
+    width: 350px;
+    height: 225px;
+    border: solid; 
+    border-width: 2px;
+    border-color: black;
+}
+
+.studentMajor {
+    padding: 30px;
+    float: center;
+    width: 60%;
+    color: gray;
+}
+
+.titles {
+    margin: 0 auto;
+    text-decoration: underline;
+    color: black;
 }
 
 /* STATE */
