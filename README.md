@@ -31,3 +31,4 @@ The homepage has a brief introduction to the students, a photo, and a way to mov
   * image placeholder between this and the next
 * Weak follow area: list of students and majors
 * Terminal area: click here to learn about the students
+### F-Pattern:
