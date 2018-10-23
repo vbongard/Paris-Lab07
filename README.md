@@ -25,3 +25,9 @@ Each student has an Introduction, Academics, Personal Anecdotes, Name, and Major
 
 ## Choreography
 The homepage has a brief introduction to the students, a photo, and a way to move to the student information page. The students on the student information page are organized randomly with the "student left out" appearing last. Each student's information is listed chronologically (with the exception of the intro section, which comes first). The student information page is orgnanized in an F pattern.
+### Z-Pattern:
+* Primary optical area: written overview of the website's purpose
+* Strong follow area: photo of University of Rochester logo
+  * image placeholder between this and the next
+* Weak follow area: list of students and majors
+* Terminal area: click here to learn about the students
