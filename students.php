@@ -11,7 +11,7 @@
 	<h3 class="studentName">Jayda Medina</h3>
 	<h4 class="studentMajor">Computer Science major</h4>
 	<h4 class="titles">Introduction</h4>
-	<p>I was born in Manhattan, NY to an immigrant mother from Guyana and a Puerto Rican father. I grew up in Brooklyn, NY. I went to Hebrew Educational Society for pre-kindergarten. Afterwards, I went down the street to P.S.115 for kindergarten - fifth grade. For Junior High I went to I.S.211. In eighth grade I got into Academy for Young Writers, and that’s where I spent the rest of grade school. Recently I moved from Brooklyn, NY to Long Island, but most of my family still lives in Brooklyn. I’ve visited my mother’s home country of Guyana, and the culture is a lot different than it is in America. However, I have never visited Puerto Rico.</p>
+	<p class="textBlock">I was born in Manhattan, NY to an immigrant mother from Guyana and a Puerto Rican father. I grew up in Brooklyn, NY. I went to Hebrew Educational Society for pre-kindergarten. Afterwards, I went down the street to P.S.115 for kindergarten - fifth grade. For Junior High I went to I.S.211. In eighth grade I got into Academy for Young Writers, and that’s where I spent the rest of grade school. Recently I moved from Brooklyn, NY to Long Island, but most of my family still lives in Brooklyn. I’ve visited my mother’s home country of Guyana, and the culture is a lot different than it is in America. However, I have never visited Puerto Rico.</p>
 	<h4 class="titles">Academics</h4>
 	<p>During my first semester at the University of Rochester, I took Beginning American Sign Language, CSC170, CSC161, and MTH140. That semester I made Dean’s List and was invited to join the National Society of Collegiate Scholars. The following semester I took CSC171, MTH150, Beginning American Sign Language II, and WRT105 RAGE!. My humanities cluster is American Sign Language and I’m still deciding my Social Science cluster. I am currently deciding between Gender and Women’s studies and Anthropology. This semester I’m taking Intro to Medical Anthropology, which can be used towards either cluster. I’m doing a human and computer interactions track, with the goal of getting a Bachelor of Arts for Computer Science.</p>
 	<h4 class="titles">Personal Anecdotes</h4>
@@ -31,8 +31,8 @@
 	</div>
 
 	<div class="student">
-	<h3 class="studentName">Jonathan Roman</h3>
 	<img class="studentImage" src="images/jon.jpg" alt="Jon">
+	<h3 class="studentName">Jonathan Roman</h3>
 	<h4 class="studentMajor">Computer Science major</h4>
 	<h4 class="titles">Introduction</h4>
 	<p>My name is Jonathan Roman. I'm from Tenafly, NJ and was born September 6th, 1997. I currently attend the University of Rochester with a major in Computer Science. MY hobbies include playing video games and basketball, both of which I participate in groups around campus for. Throughout high school I would work as a part-time tennis coach, though mostly had very light hours (about 4-5 hours a week). At the time I was on the varsity tennis team so the only prerequisite I needed was to be able to play and have the patience to deal with children aged anywhere from 6-14. This was my first job I received on my own as well, which was different but educational for a 15-year-old me. </p>
@@ -44,11 +44,11 @@
 </section>
 	
 	<section class="business">
+	<div class="oddStudentBlock">
 	<h2>Business Major</h2>
-	<div class="student">
-	<h3 class="studentName">Lihui Guo</h3>
 	<img class="studentImage" src="images/lihui.png" alt="Lihui">
-	<h4 class="studentMajor">Business major</h4>
+	<h3 class="studentName">Lihui Guo</h3>
+	<h4 class="oddStudentMajor">Business major</h4>
 	<h4 class="titles">Introduction</h4>
 	<p>I grew up in Brooklyn, New York in a predominantly Asian-American and Italian-American neighborhood. My parents had just moved from Japan/China to be with other family in New York City. I spent a lot of time with relatives as a child, particularly with my older cousins and grandparents. Our neighborhood had everything we needed – everything was within walking distance, and it was really nice to have family so close. My family was and still is super important to me. They’re always my biggest supporters and I really appreciate how my parents aren’t stereotypical “Asian tiger parents”.</p>
 	<h4 class="titles">Academics</h4>

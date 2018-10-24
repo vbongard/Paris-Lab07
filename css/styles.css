@@ -74,42 +74,65 @@ h3 {
     width: 50%;
 }
 
-.student {
-    padding: 3px;
-    margin: 0 auto;
+.textBlock {
+    float: left;
 }
 
 .studentName {
-    padding-top: 10px;
+    padding-top: 5px;
     float: left;
     display: inline-table;
-    margin: 0 auto;
+    margin-left: 20%;
+    margin-top: 150px;
     font-weight: bold;
     color: black;
-}
-
-.studentImage {
-    float: right;
-    display: inline-table;
-    margin: 0 auto;
-    width: 350px;
-    height: 225px;
-    border: solid; 
-    border-width: 2px;
-    border-color: black;
+    width: 30%;
+    margin-right: -30%;
 }
 
 .studentMajor {
-    padding: 30px;
-    float: center;
-    width: 60%;
+    float: left;
     color: gray;
+    margin-top: 220px;
+    width: 30%;
+    margin-left: -10%;
+}
+
+.oddStudentMajor {
+    float: left;
+    color: orange;
+    margin-top: 220px;
+    width: 30%;
+    margin-left: -10%;
+}
+
+.oddStudentBlock {
+    background-color: lightblue;
+    padding: 10px;
+    margin-bottom: 25px;
+
+}
+
+.studentImage {
+    float: left;
+    display: inline-table;
+    margin: 0;
+    width: 40%;
+    height: 380px;
+    border: solid; 
+    border-width: 2px;
+    border-color: black;
+    margin-bottom: 40px;
 }
 
 .titles {
-    margin: 0 auto;
+    padding-top: 10px;
+    float: center;
     text-decoration: underline;
     color: black;
+    margin-left: 0;
+    width: 30%;
+    margin-bottom: 0;
 }
 
 /* STATE */
