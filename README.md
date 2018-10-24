@@ -32,3 +32,7 @@ The homepage has a brief introduction to the students, a photo, and a way to mov
 * Weak follow area: list of students and majors
 * Terminal area: click here to learn about the students
 ### F-Pattern:
+* Left to right: information about students is on the left with their photo on the right
+* Photos break up monotony and draw the viewer's eye across the screen
+* Text is short because users won't read most of it
+* Major then introduction are first in each bio since they are the most important
