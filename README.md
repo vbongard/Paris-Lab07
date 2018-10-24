@@ -32,7 +32,15 @@ The homepage has a brief introduction to the students, a photo, and a way to mov
 * Weak follow area: list of students and majors
 * Terminal area: click here to learn about the students
 ### F-Pattern:
-* Left to right: information about students is on the left with their photo on the right
+* Left to right: information about students is left to right below the photo and student name/major with the photo on the left.
 * Photos break up monotony and draw the viewer's eye across the screen
 * Text is short because users won't read most of it
-* Major then introduction are first in each bio since they are the most important
+* Major and student name follows the photo to accompany the face with a name. The introduction is first in each bio since it provides the most basic and important information.
+
+## Design Choices (Written by Designer - Jonathan Roman)
+
+* Fonts chosen to represent a "Tech" look for the computer science majors and a more formal business-like look for the student with the business major.
+
+* Chose light purple background to provide a nice-looking background while not hindering the legibility of the text. It's a light enough background to provide similar visibility to white but provides an other-than-plain look.
+
+* Attempted to use image sizes that fit the resolution of the photos, however some of the photos are very poor quality. Although this is the case, I feel that shrinking the photos more would harm the appearance of the layouts and other student profiles.

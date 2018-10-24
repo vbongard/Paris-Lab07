@@ -4,7 +4,8 @@ I'm creating 4 different categories for my CSS -
 1. Base
 2. Layout
 3. State
-4. Navigation (Excluding States)
+4. Style
+5. Navigation (Excluding States)
 */
 
 /* BASE */
@@ -133,6 +134,16 @@ h3 {
     margin-left: 0;
     width: 30%;
     margin-bottom: 0;
+}
+
+/* STYLE */
+
+.computerscience {
+    font-family: Share+Tech;
+}
+
+.business {
+    font-family: Roboto;
 }
 
 /* STATE */
