@@ -9,5 +9,6 @@
 	<title>Paris - Lab 07</title>
 	<link rel="stylesheet" href="css/styles.css">
 	<link rel="stylesheet" href="css/navigation.css">
+	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
 	<script src="http://code.jquery.com/jquery.js"></script>
 </head>

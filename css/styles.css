@@ -29,6 +29,7 @@ body {
     width: 92%;
     background-color: #E6E6FA;
     font-size: 25px;
+    font-family: Raleway;
 }
 
 h3 {
@@ -37,22 +38,40 @@ h3 {
 
 /* LAYOUT */
 
-.belowPic {
+.firstText {
     font-size: 20px;
     color: #333333;
+    margin-left: 45px;
+    width: 50%;
+    float: left;
+    margin-bottom: 20px;
+    border: solid;
+    border-width: 1px;
+    padding: 5px;
+}
+
+.UofR {
+    float: right;
+    margin-right: 75px;
+    width: 25%;
+    height: 275px;
+    border: solid;
+    border-width: 1px;
+    padding: 5px;
+    margin-top: 20px;
 }
 
 .heroImage {
     display: block;
-    width: 100%;
-    border: double;
-    border-width: 2px;
-    border-color: black;
-    padding: 5px;
+    width: 118%;
+    margin-left: -9%;
+    height: 550px;
 }
 
 .listBelow {
-    margin-left: 0 auto;
+    margin-left: 45px;
+    float: left;
+    width: 50%;
 }
 
 .student {
