@@ -108,10 +108,11 @@ h3 {
 }
 
 .oddStudentBlock {
-    background-color: lightblue;
-    padding: 10px;
+    background-color: white;
+    padding: 15px;
     margin-bottom: 25px;
-
+    border: solid;
+    border-width: 2px;
 }
 
 .studentImage {

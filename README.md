@@ -44,3 +44,5 @@ The homepage has a brief introduction to the students, a photo, and a way to mov
 * Chose light purple background to provide a nice-looking background while not hindering the legibility of the text. It's a light enough background to provide similar visibility to white but provides an other-than-plain look.
 
 * Attempted to use image sizes that fit the resolution of the photos, however some of the photos are very poor quality. Although this is the case, I feel that shrinking the photos more would harm the appearance of the layouts and other student profiles.
+
+* Chose white as the background for the odd student out because it gives a "paper-like" look which applies more to the business major as opposed to the other computer science majors. Gave it a border to help transition from light purple to white less suddenly.
